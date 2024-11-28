@@ -39,12 +39,12 @@ const Home = () => {
           <div className="space-y-6">
             <h1 className="text-5xl font-bold">
               <span className="text-gray-900 block">Empowering athletes</span>
-              <span className="bg-gradient-to-r from-amber-400 to-orange-500 text-transparent bg-clip-text">to succeed beyond the game</span>
+              <span className="bg-gradient-to-r from-amber-400 to-orange-500 text-transparent bg-clip-text">to succeed beyond the arena</span>
             </h1>
             
             <div className="space-y-2">
               <p className="text-2xl text-gray-600">
-              Through <span className="text-indigo-600 font-semibold">mentoring</span>, <span className="text-indigo-600 font-semibold">brand strategy</span>, and <span className="text-indigo-600 font-semibold">practical resources</span>,
+              Through <span className="text-indigo-600 font-semibold">mentoring</span>, <span className="text-indigo-600 font-semibold">support</span>, and <span className="text-indigo-600 font-semibold">resilience resources</span>,
               </p>
               <p className="text-2xl text-gray-600">
               Savvy Side Solutions helps athletes navigate uncertainty, build resilience, and create a future they're proud of

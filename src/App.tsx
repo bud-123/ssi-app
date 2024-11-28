@@ -7,7 +7,7 @@ import About from './screens/About';
 import Contact from './screens/Contact';
 const App = () => {
   return (
-    <Router>
+    <Router basename="/ssi-app">
       <div className="flex flex-col min-h-screen">
         <Navbar />
         <Routes>

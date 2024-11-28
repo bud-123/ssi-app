@@ -23,10 +23,16 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12">
             <div className="space-y-4">
               <p className="text-gray-700">
-                Jean's story is about more than athletic success. It's about a commitment to fostering change in the lives of others. Inspired by her own journey of mental, physical, and spiritual growth, Jean is dedicated to advocating for holistic health. As she puts it, "Health care is one of the major components of an individual's daily life. I wish to be an influencer of change in the arena of healthy living by being an advocate for the mental, physical, and spiritual well-being of people."
+              Jean’s journey in track and field began with a passion for running and a drive to push her limits. Over 15 years, she has competed at every level, from local meets to national championships. Each experience—whether a challenge or a victory—helped shape her into the person she is today.
               </p>
               <p className="text-gray-700">
-                Jean's legacy is one of strength, balance, and the unwavering pursuit of making a meaningful difference—on the track, in the field, and beyond.
+              For Jean, track and field has always been more than a sport. It has been a platform for growth and a way to learn lessons that extend far beyond competition. These lessons now fuel her work as a blogger, consultant, and model, where she shares insights and tools to help others improve their lives.      
+              </p>
+              <p className="text-gray-700">
+              Jean’s mission is rooted in creating meaningful change. Drawing from her own journey of mental, physical, and faith-driven growth, she is committed to promoting holistic health. She believes true well-being comes from aligning the mind, body, and faith, and she works to inspire others to prioritize their overall health.      
+              </p>
+              <p className="text-gray-700">
+              As she puts it, “Health care is one of the major components of an individual’s daily life. I wish to be an influencer of change in the arena of healthy living by being an advocate for the mental, physical, and spiritual well-being of people.”
               </p>
             </div>
             <div className="flex justify-center items-start">
