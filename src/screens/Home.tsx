@@ -1,7 +1,7 @@
 import React from 'react';
 import { FC, useState } from 'react';
 import Button from '../components/common/Button';
-import heroImage from '../components/assets/images/hero-image.jpg';
+import heroImage1 from '../components/assets/images/hero-image1.jpg';
 import EmailModal from '../components/EmailModal';
 
 interface HeroProps {
@@ -57,7 +57,7 @@ const Home = () => {
 
           <div className="relative h-[500px]">
             <img 
-              src={heroImage} 
+              src={heroImage1} 
               alt="Athletes succeeding"
               className="object-cover rounded-lg shadow-xl w-full h-full"
             />
