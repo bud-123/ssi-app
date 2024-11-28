@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ssi-app/static/css/main.33dbee4c.css",
+    "main.js": "/ssi-app/static/js/main.f9d804a8.js",
+    "static/js/453.2e815053.chunk.js": "/ssi-app/static/js/453.2e815053.chunk.js",
+    "static/media/hero-image.jpg": "/ssi-app/static/media/hero-image.bb61c419c6f122921ac0.jpg",
+    "static/media/about-image.jpg": "/ssi-app/static/media/about-image.384bdd8bf184059ec3bb.jpg",
+    "index.html": "/ssi-app/index.html",
+    "main.33dbee4c.css.map": "/ssi-app/static/css/main.33dbee4c.css.map",
+    "main.f9d804a8.js.map": "/ssi-app/static/js/main.f9d804a8.js.map",
+    "453.2e815053.chunk.js.map": "/ssi-app/static/js/453.2e815053.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33dbee4c.css",
+    "static/js/main.f9d804a8.js"
+  ]
+}
